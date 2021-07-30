@@ -7,4 +7,11 @@
  - _Results:_ showed as approved in PR
 6. push a commit to fork
  - Review results (dismiss review, change entry, etc)
-7. 
+ - _Results:_ Dismissed review, did not change any labels in flow
+7. Comment and review on PR
+ - Approve PR
+ - single line comment and comment
+ - single line comment and approve
+8. push a new commit
+ - Record Results
+9. 
