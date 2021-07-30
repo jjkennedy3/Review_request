@@ -14,4 +14,5 @@
  - single line comment and approve
 8. push a new commit
  - Record Results
+ - _Results:_ No loss of data, the reviews are all still present
 9. 
