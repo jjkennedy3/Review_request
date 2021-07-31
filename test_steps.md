@@ -15,4 +15,7 @@
 8. push a new commit
  - Record Results
  - _Results:_ No loss of data, the reviews are all still present
-9. 
+9.
+
+New Test:
+trying a commit from the command line before the reveiw and seeing if that triggers the flow. 
